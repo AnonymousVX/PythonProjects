@@ -1,4 +1,4 @@
-\# Make Your Own Adventure
+# Make Your Own Adventure
 
 A game of choices.
 
