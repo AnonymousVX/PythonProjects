@@ -14,4 +14,4 @@ while True:
         print('Temperature is',data['main']['temp'],f'{celsius_symbol}')
         print('Humidity is',data['main']['humidity'],'%')
     else:
-            print("Sorry, we couldn't find the city")
+            print("No such city found, please try again")
